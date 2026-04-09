@@ -1,0 +1,41 @@
+{
+  "facts": [
+    {
+      "key": "name",
+      "value": "rahul store in your",
+      "time": "2026-03-19T10:28:27.924321"
+    },
+    {
+      "key": "name",
+      "value": "Rahul",
+      "time": "2026-03-19T10:28:29.434210"
+    },
+    {
+      "key": "what",
+      "value": "what",
+      "time": "2026-03-19T10:29:57.733264"
+    },
+    {
+      "key": "IPL 2018",
+      "value": "Mumbai Indians won the championship in 2018",
+      "time": "2026-03-20T18:42:52.150419"
+    },
+    {
+      "key": "greeting",
+      "value": "Hello",
+      "time": "2026-03-20T18:58:12.371534"
+    },
+    {
+      "key": "greeting",
+      "value": "Hello",
+      "time": "2026-03-20T20:36:39.652772"
+    }
+  ],
+  "preferences": {
+    "name": "Rahul",
+    "what": "what",
+    "IPL 2018": "Mumbai Indians won the championship in 2018",
+    "greeting": "Hello"
+  },
+  "conversations": []
+}
